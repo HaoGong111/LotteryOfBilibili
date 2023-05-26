@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 29 22:57:01 2020
-@author: Justin
-"""
 '''
 配合手工操作登录B站，获取cookies，保存到本地，以备后续使用
 '''
